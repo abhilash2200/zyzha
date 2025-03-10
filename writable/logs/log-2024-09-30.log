@@ -1,0 +1,112 @@
+CRITICAL - 2024-09-30 07:31:27 --> ErrorException: include(course-form.php): Failed to open stream: No such file or directory
+[Method: GET, Route: 2d-animation-course]
+in APPPATH\Views\2d_animation_course.php on line 123.
+ 1 APPPATH\Views\2d_animation_course.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(course-form.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\moople\\app\\Views\\2d_animation_course.php', 123)
+ 2 APPPATH\Views\2d_animation_course.php(123): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\2d_animation_course.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('2d_animation_course', [], true)
+ 6 APPPATH\Controllers\D2_animation_course.php(9): view('2d_animation_course')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\D2_animation_course->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\D2_animation_course))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-09-30 07:31:29 --> ErrorException: include(course-form.php): Failed to open stream: No such file or directory
+[Method: GET, Route: 2d-animation-course]
+in APPPATH\Views\2d_animation_course.php on line 123.
+ 1 APPPATH\Views\2d_animation_course.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(course-form.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\moople\\app\\Views\\2d_animation_course.php', 123)
+ 2 APPPATH\Views\2d_animation_course.php(123): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\2d_animation_course.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('2d_animation_course', [], true)
+ 6 APPPATH\Controllers\D2_animation_course.php(9): view('2d_animation_course')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\D2_animation_course->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\D2_animation_course))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-09-30 07:31:52 --> ErrorException: include(components/course-form.php): Failed to open stream: No such file or directory
+[Method: GET, Route: 2d-animation-course]
+in APPPATH\Views\2d_animation_course.php on line 123.
+ 1 APPPATH\Views\2d_animation_course.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(components/course-form.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\moople\\app\\Views\\2d_animation_course.php', 123)
+ 2 APPPATH\Views\2d_animation_course.php(123): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\2d_animation_course.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('2d_animation_course', [], true)
+ 6 APPPATH\Controllers\D2_animation_course.php(9): view('2d_animation_course')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\D2_animation_course->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\D2_animation_course))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-09-30 07:31:53 --> ErrorException: include(components/course-form.php): Failed to open stream: No such file or directory
+[Method: GET, Route: 2d-animation-course]
+in APPPATH\Views\2d_animation_course.php on line 123.
+ 1 APPPATH\Views\2d_animation_course.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(components/course-form.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\moople\\app\\Views\\2d_animation_course.php', 123)
+ 2 APPPATH\Views\2d_animation_course.php(123): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\2d_animation_course.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('2d_animation_course', [], true)
+ 6 APPPATH\Controllers\D2_animation_course.php(9): view('2d_animation_course')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\D2_animation_course->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\D2_animation_course))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-09-30 07:33:01 --> ErrorException: include(course-form.php): Failed to open stream: No such file or directory
+[Method: GET, Route: web-design-course]
+in APPPATH\Views\web_design_course.php on line 105.
+ 1 APPPATH\Views\web_design_course.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(course-form.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\moople\\app\\Views\\web_design_course.php', 105)
+ 2 APPPATH\Views\web_design_course.php(105): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\web_design_course.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('web_design_course', [], true)
+ 6 APPPATH\Controllers\Web_design_course.php(9): view('web_design_course')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Web_design_course->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web_design_course))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-09-30 07:33:16 --> ErrorException: include(components/course-form.php): Failed to open stream: No such file or directory
+[Method: GET, Route: web-design-course]
+in APPPATH\Views\web_design_course.php on line 105.
+ 1 APPPATH\Views\web_design_course.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(components/course-form.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\moople\\app\\Views\\web_design_course.php', 105)
+ 2 APPPATH\Views\web_design_course.php(105): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\web_design_course.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('web_design_course', [], true)
+ 6 APPPATH\Controllers\Web_design_course.php(9): view('web_design_course')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Web_design_course->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web_design_course))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-09-30 07:33:28 --> ErrorException: include(components/course-form.php): Failed to open stream: No such file or directory
+[Method: GET, Route: web-design-course]
+in APPPATH\Views\web_design_course.php on line 105.
+ 1 APPPATH\Views\web_design_course.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(components/course-form.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\moople\\app\\Views\\web_design_course.php', 105)
+ 2 APPPATH\Views\web_design_course.php(105): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\web_design_course.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('web_design_course', [], true)
+ 6 APPPATH\Controllers\Web_design_course.php(9): view('web_design_course')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Web_design_course->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web_design_course))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')

@@ -1,0 +1,163 @@
+    <section class="py-6 lg:py-8">
+        <div class="container mx-auto px-4">
+            <div class="mb-5">
+                <h2 class="text-center text-[25px] lg:text-[40px] font-bold">Our Partners</h2>
+            </div>
+            <section id="partner" class="splide loan-slide" aria-label="loan-slide">
+                <div class="splide__track">
+                    <ul class="splide__list">
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/aditya-birla finance.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/axis-bank.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/bajaj-finance.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/bandhan.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/bob.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/chola-finance.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/clix-capital.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/credit-success.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/edelweiss.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/hdb-financial-services.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/hdfc.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/icici.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/idfc.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/IIFL.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/Indifi.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/indusInd-bank.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/kotak.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/L&T-finance.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/lendingkart.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/manappuram-finance-ltd.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/muthoot-finance.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/neogrowth.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/northern-arc-capital.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/open-capital.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/poonawalla-fincorp.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/sbi.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/SMFG-india-credit.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/ugrow.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/yes-bank.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                        <li class="splide__slide flex justify-center flex-col">
+                            <div class="lg:mx-3">
+                                <img class="w-full h-full p-2 lg:p-5 rounded-lg" src="./assets/img/partner/zip-loan.webp" alt="" width="200" height="200">
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+    </section>

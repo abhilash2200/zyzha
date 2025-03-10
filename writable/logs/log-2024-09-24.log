@@ -1,0 +1,32 @@
+CRITICAL - 2024-09-24 07:07:44 --> ErrorException: include(component/faq): Failed to open stream: No such file or directory
+[Method: GET, Route: animation-course]
+in APPPATH\Views\animation_course.php on line 800.
+ 1 APPPATH\Views\animation_course.php(800): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(component/faq): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\moople\\app\\Views\\animation_course.php', 800)
+ 2 APPPATH\Views\animation_course.php(800): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\animation_course.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('animation_course', [], true)
+ 6 APPPATH\Controllers\Animation_course.php(9): view('animation_course')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Animation_course->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Animation_course))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-09-24 07:07:46 --> ErrorException: include(component/faq): Failed to open stream: No such file or directory
+[Method: GET, Route: animation-course]
+in APPPATH\Views\animation_course.php on line 800.
+ 1 APPPATH\Views\animation_course.php(800): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(component/faq): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\moople\\app\\Views\\animation_course.php', 800)
+ 2 APPPATH\Views\animation_course.php(800): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\animation_course.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('animation_course', [], true)
+ 6 APPPATH\Controllers\Animation_course.php(9): view('animation_course')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Animation_course->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Animation_course))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')

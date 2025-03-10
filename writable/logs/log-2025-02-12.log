@@ -1,0 +1,195 @@
+CRITICAL - 2025-02-12 07:32:01 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: /]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/home.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 07:32:08 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: /]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/home.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 07:32:15 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: contact-us]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/contact_us.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/contact_us.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Contact_us.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Contact_us->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 07:32:17 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: contact-us]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/contact_us.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/contact_us.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Contact_us.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Contact_us->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 07:32:19 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: contact-us]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/contact_us.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/contact_us.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Contact_us.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Contact_us->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 07:32:21 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: contact-us]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/contact_us.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/contact_us.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Contact_us.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Contact_us->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 07:32:24 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: /]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/home.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 07:33:18 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: /]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/home.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 07:34:08 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: /]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/home.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 07:34:50 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: /]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/home.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 07:50:46 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: /]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/home.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 07:58:57 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: /]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/home.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-02-12 08:02:43 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+[Method: GET, Route: /]
+in APPPATH/Views/header.php on line 6.
+ 1 APPPATH/Views/header.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/home.php(1): include('/home/codesol1/zyzha.com/app/Views/header.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home/codesol1/zyzha.com/app/Views/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Home.php(19): view()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

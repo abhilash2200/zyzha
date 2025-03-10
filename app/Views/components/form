@@ -1,0 +1,95 @@
+<div class="p-3 md:m-3 m-0 shadow-md">
+    <div class="bg-[#20AA4A] py-3">
+        <h2 class="text-[#fff] text-[18px] font-bold text-center">Know Your Eligibility!</h2>
+    </div>
+    <p class="text-[#313030] text-[15px] text-center my-2">
+        Get your loan eligibility checked in just a few seconds!
+    </p>
+    <div class="form bg-[#FFFBED] py-5 rounded-b-lg">
+
+        <form class="px-10 mx-auto" method="post" enctype="multipart/form-data" action="https://www.zyzha.com/leads.php">
+            <div class="grid md:grid-cols-2 md:gap-6">
+                <div class="relative z-0 w-full mb-5 group">
+                    <input type="text" name="floating_first_name" id="floating_first_name"
+                        class="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none   focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                        placeholder=" " required />
+                    <label for="floating_first_name"
+                        class="peer-focus:font-medium absolute text-sm text-gray-500   duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:start-0 rtl:peer-focus:translate-x-1/4 peer-focus:text-blue-600   peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">First
+                        name*</label>
+                </div>
+                <div class="relative z-0 w-full mb-5 group">
+                    <input type="text" name="floating_last_name" id="floating_last_name"
+                        class="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none   focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                        placeholder=" " required />
+                    <label for="floating_last_name"
+                        class="peer-focus:font-medium absolute text-sm text-gray-500   duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:start-0 rtl:peer-focus:translate-x-1/4 peer-focus:text-blue-600   peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">Last
+                        name*</label>
+                </div>
+            </div>
+            <div class="relative z-0 w-full mb-5 group">
+                <input type="email" name="floating_email" id="floating_email"
+                    class="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none   focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                    placeholder="" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}" title="Please enter a valid email address (e.g., user@example.com)" required />
+                <label for="floating_email"
+                    class="peer-focus:font-medium absolute text-sm text-gray-500   duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:start-0 rtl:peer-focus:translate-x-1/4 rtl:peer-focus:left-auto peer-focus:text-blue-600   peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">Email
+                    address*</label>
+            </div>
+            <div class="relative z-0 w-full mb-5 group">
+                <input type="tel" pattern="[0-9]{10}"
+                    title="Please enter 10 digita valid phone number" name="floating_phone"
+                    id="floating_phone"
+                    class="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none   focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                    placeholder="" minlength="10" maxlength="10" title="Please enter a valid 10-digit phone number" required />
+                <label for="floating_phone"
+                    class="peer-focus:font-medium absolute text-sm text-gray-500   duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:start-0 rtl:peer-focus:translate-x-1/4 peer-focus:text-blue-600   peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">Phone
+                    number*</label>
+            </div>
+            <div class="relative z-0 w-full mb-5 group">
+                <input type="text" 
+                    name="business_name" 
+                    id="business_name"
+                    class="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none   focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                    placeholder=" " required />
+                <label for="business_name"
+                    class="peer-focus:font-medium absolute text-sm text-gray-500   duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:start-0 rtl:peer-focus:translate-x-1/4 peer-focus:text-blue-600   peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">Business name*</label>
+            </div>
+            <div class="relative z-0 w-full mb-5 group">
+                <select id="RegistrationProof" name="registration_proof"
+                    class="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300   focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                    placeholder=" " required>
+                    <option value="">Do You Have Registration Proof*</option>
+                    <option value="Trade Licence">Trade Licence</option>
+                    <option value="GST Certificate">GST Certificate</option>
+                    <option value="P-Tax">P-Tax</option>
+                </select>
+            </div>
+            <div class="relative z-0 w-full mb-5 group">
+                <select id="MonthlySales" name="monthly_sales" 
+                    class="block bg-transparent border-0 border-b-2 border-gray-300 py-2.5 px-0 w-full text-sm text-gray-900   focus:outline-none focus:ring-0 focus:border-blue-600 peer" placeholder=" " required>
+                    <option value="">Monthly Sales*</option>
+                    <option value="0 - 5 lakhs">0 - 5 lakhs</option>
+                    <option value="5 lakhs - 15 lakhs">5 lakhs - 15 lakhs</option>
+                    <option value="15 lakhs - 30 lakhs">15 lakhs - 30 lakhs</option>
+                    <option value="30 lakhs - 50 lakhs">30 lakhs - 50 lakhs</option>
+                    <option value="Above 50 lakhs">Above 50 lakhs</option>
+                </select>
+            </div>
+            <div class="relative z-0 w-full mb-5 group">
+                <select id="YourBusiness" name="business_year" 
+                    class="block bg-transparent border-0 border-b-2 border-gray-300 py-2.5 px-0 w-full text-sm text-gray-900   focus:outline-none focus:ring-0 focus:border-blue-600 peer" placeholder=" " required>
+                    <option value="">How Old Is Your Business*</option>
+                    <option value="1 year">1 year</option>
+                    <option value="2 years">2 years</option>
+                    <option value="Above 2 years">Above 2 years</option>
+                </select>
+            </div>
+            <input type="hidden" name="utm_source" value="<?php echo (isset($_GET['utm_source']) && $_GET['utm_source']!='') ? $_GET['utm_source'] : '';?>" />
+            <input type="hidden" name="utm_medium" value="<?php echo (isset($_GET['utm_medium']) && $_GET['utm_medium']!='') ? $_GET['utm_medium'] : '';?>" />
+            <input type="hidden" name="utm_campaign" value="<?php echo (isset($_GET['utm_campaign']) && $_GET['utm_campaign']!='') ? $_GET['utm_campaign'] : '';?>" />
+    
+            <button type="submit"
+                class="text-white block mx-auto bg-[#20AA4A] hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-sm text-sm w-full sm:w-auto px-20 py-2.5 text-center">Submit</button>
+        </form>
+
+    </div>
+</div>

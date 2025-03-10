@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+p{
+  font-size: 15px;
+}
+
+nav ul li ul.servDropdown{
+    display: none;
+}
+nav ul li:hover ul.servDropdown{
+    display: block;
+}
+
+.loan-slide .splide__slide div{
+    transform: scale(0.9);
+    transition: all .5s ease;
+}
+.loan-slide .splide__slide.is-active div{
+    transform: scale(1);
+    transition: all .5s ease;
+}
+.loan-slide .splide__slide.is-active div > .loan-a{
+    transform: scale(1);
+    transition: all .5s ease;
+}
+
+.splide__pagination__page.is-active {
+    background: #1faa49;
+    transform: scale(1.4);
+    z-index: 1;
+}
+
+.stepsText{
+    color:transparent;
+    -webkit-text-stroke: 2px rgb(237, 237, 237);
+}
+.stepsText1{
+    color:transparent;
+    -webkit-text-stroke: 1px rgb(237, 237, 237);
+}
+.stepsText2{
+    color:transparent;
+    -webkit-text-stroke: 1px rgb(237, 237, 237);
+}
+
+@media (min-width: 768px){
+    .testimonial .splide__slide{
+        transform: scale(.9);
+        transition: all .5s ease;
+    }
+    .testimonial .splide__slide.is-active{
+        transform: scale(1) translateY(50px);
+        transition: all .5s ease;
+    }
+
+}
+
+.cityDiv{
+    position: relative;
+    padding: 0 20px;
+}
+.cityDiv:hover .cityName{
+    transition: all .5s ease;
+    opacity: 1;
+}
+.cityName{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%,0);
+    width: 97%;
+    padding: 8px 0;
+    background-color: rgba(0, 0, 0, 0.636);
+    z-index: 2;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transition: all .5s ease;
+    opacity: 0;
+}
+
+.range-slider{
+    -webkit-appearance: none;
+    width: 100%;
+    height: 10px;
+    border-radius: 5px;  
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+.range-slider::-webkit-slider-thumb{
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%; 
+    background: #20AA4A;
+    cursor: pointer;
+}
+
+.form-control, .form-select{
+    border: none;
+    border-bottom: 1px solid #313030;
+    font-size: 15px;
+    color: #313030;
+    padding-bottom: 10px;
+  }
+  ::placeholder{
+    color:#313030 !important;
+  }
+  select option span{
+    color: #FF0000;
+  }
+
+  

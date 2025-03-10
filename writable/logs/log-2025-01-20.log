@@ -1,0 +1,39 @@
+CRITICAL - 2025-01-20 12:52:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "blog_details.php"
+[Method: GET, Route: blog-details]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('blog_details.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('blog_details', [], true)
+ 3 APPPATH\Controllers\Blog_details.php(19): view('blog_details', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Blog_details->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog_details))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\zyzha\\public\\index.php')
+CRITICAL - 2025-01-20 13:03:13 --> ParseError: syntax error, unexpected string content "footer.php?>"
+[Method: GET, Route: blogs]
+in APPPATH\Views\blogs.php on line 92.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('blogs', [], true)
+ 3 APPPATH\Controllers\Blogs.php(19): view('blogs', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Blogs->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blogs))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\zyzha\\public\\index.php')
+CRITICAL - 2025-01-20 13:03:15 --> ParseError: syntax error, unexpected string content "footer.php?>"
+[Method: GET, Route: blogs]
+in APPPATH\Views\blogs.php on line 92.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('blogs', [], true)
+ 3 APPPATH\Controllers\Blogs.php(19): view('blogs', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Blogs->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blogs))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\zyzha\\public\\index.php')

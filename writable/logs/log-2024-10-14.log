@@ -1,0 +1,112 @@
+CRITICAL - 2024-10-14 06:14:14 --> ErrorException: Undefined variable $page_name
+[Method: GET, Route: animation-course-in-kolkata]
+in APPPATH\Views\components\course-form.php on line 79.
+ 1 APPPATH\Views\components\course-form.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page_name', 'C:\\xampp\\htdocs\\moople\\app\\Views\\components\\course-form.php', 79)
+ 2 APPPATH\Views\animation_course_in_kolkata.php(138): include('C:\\xampp\\htdocs\\moople\\app\\Views\\components\\course-form.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\animation_course_in_kolkata.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('animation_course_in_kolkata', [], true)
+ 6 APPPATH\Controllers\Animation_course_in_kolkata.php(19): view('animation_course_in_kolkata', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Animation_course_in_kolkata->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Animation_course_in_kolkata))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-10-14 06:15:00 --> ErrorException: Undefined variable $page_name
+[Method: GET, Route: animation-course-in-kolkata]
+in APPPATH\Views\components\course-form.php on line 79.
+ 1 APPPATH\Views\components\course-form.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page_name', 'C:\\xampp\\htdocs\\moople\\app\\Views\\components\\course-form.php', 79)
+ 2 APPPATH\Views\animation_course_in_kolkata.php(138): include('C:\\xampp\\htdocs\\moople\\app\\Views\\components\\course-form.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\animation_course_in_kolkata.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('animation_course_in_kolkata', [], true)
+ 6 APPPATH\Controllers\Animation_course_in_kolkata.php(19): view('animation_course_in_kolkata', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Animation_course_in_kolkata->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Animation_course_in_kolkata))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-10-14 06:16:30 --> ErrorException: Undefined variable $page_name
+[Method: GET, Route: animation-course-in-kolkata]
+in APPPATH\Views\components\course-form.php on line 79.
+ 1 APPPATH\Views\components\course-form.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page_name', 'C:\\xampp\\htdocs\\moople\\app\\Views\\components\\course-form.php', 79)
+ 2 APPPATH\Views\animation_course_in_kolkata.php(136): include('C:\\xampp\\htdocs\\moople\\app\\Views\\components\\course-form.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\animation_course_in_kolkata.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('animation_course_in_kolkata', [], true)
+ 6 APPPATH\Controllers\Animation_course_in_kolkata.php(19): view('animation_course_in_kolkata', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Animation_course_in_kolkata->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Animation_course_in_kolkata))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-10-14 06:17:28 --> ErrorException: Undefined variable $page_name
+[Method: GET, Route: animation-course-in-kolkata]
+in APPPATH\Views\components\course-form.php on line 79.
+ 1 APPPATH\Views\components\course-form.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page_name', 'C:\\xampp\\htdocs\\moople\\app\\Views\\components\\course-form.php', 79)
+ 2 APPPATH\Views\animation_course_in_kolkata.php(136): include('C:\\xampp\\htdocs\\moople\\app\\Views\\components\\course-form.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\animation_course_in_kolkata.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('animation_course_in_kolkata', [], true)
+ 6 APPPATH\Controllers\Animation_course_in_kolkata.php(19): view('animation_course_in_kolkata', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Animation_course_in_kolkata->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Animation_course_in_kolkata))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-10-14 06:19:05 --> ErrorException: Undefined variable $page_name
+[Method: GET, Route: animation-course-in-kolkata]
+in APPPATH\Views\components\course-form.php on line 79.
+ 1 APPPATH\Views\components\course-form.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page_name', 'C:\\xampp\\htdocs\\moople\\app\\Views\\components\\course-form.php', 79)
+ 2 APPPATH\Views\animation_course_in_kolkata.php(136): include('C:\\xampp\\htdocs\\moople\\app\\Views\\components\\course-form.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\animation_course_in_kolkata.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('animation_course_in_kolkata', [], true)
+ 6 APPPATH\Controllers\Animation_course_in_kolkata.php(19): view('animation_course_in_kolkata', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Animation_course_in_kolkata->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Animation_course_in_kolkata))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-10-14 11:07:56 --> ErrorException: include(conponents/short-term-form.php): Failed to open stream: No such file or directory
+[Method: GET, Route: 3d-modelling-course]
+in APPPATH\Views\3d_modelling_course.php on line 117.
+ 1 APPPATH\Views\3d_modelling_course.php(117): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(conponents/short-term-form.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\moople\\app\\Views\\3d_modelling_course.php', 117)
+ 2 APPPATH\Views\3d_modelling_course.php(117): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\3d_modelling_course.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('3d_modelling_course', [], true)
+ 6 APPPATH\Controllers\D3_modelling_course.php(26): view('3d_modelling_course', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\D3_modelling_course->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\D3_modelling_course))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
+CRITICAL - 2024-10-14 11:08:34 --> ErrorException: include(conponents/short-term-form.php): Failed to open stream: No such file or directory
+[Method: GET, Route: 3d-modelling-course]
+in APPPATH\Views\3d_modelling_course.php on line 117.
+ 1 APPPATH\Views\3d_modelling_course.php(117): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(conponents/short-term-form.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\moople\\app\\Views\\3d_modelling_course.php', 117)
+ 2 APPPATH\Views\3d_modelling_course.php(117): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\moople\\app\\Views\\3d_modelling_course.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('3d_modelling_course', [], true)
+ 6 APPPATH\Controllers\D3_modelling_course.php(26): view('3d_modelling_course', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\D3_modelling_course->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\D3_modelling_course))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\moople\\public\\index.php')
