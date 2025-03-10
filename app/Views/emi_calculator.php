@@ -154,7 +154,7 @@
                         </div>
                         <div>
                             <h2 class="block font-bold text-white text-[15px] lg:text-[20px]">Loan Amount</h2>
-                            <span class="text-[#A8A4A4] text-[12px] lg:text-[15px]">The higher the loan amount, the higher the EMI.<br class="hidden md:hidden lg:block"> Borrow only what you need, and avoid excess on this. <br class="hidden md:hidden lg:block">front</span> 
+                            <span class="text-[#A8A4A4] text-[12px] lg:text-[15px]">The higher the loan amount, the higher the EMI.<br class="hidden md:hidden lg:block"> Borrow only what you need, and avoid excess on this.</span> 
                         </div>
                     </div>
                 </div>
@@ -346,6 +346,92 @@
                             <div id="content-4" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
                                 <div class="py-5">
                                     <p>Zyzha offers flexible repayment options, competitive interest rates, and personalised loan solutions. That makes our MSME business loans the ideal choice for business owners looking to expand or manage their operations.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-[50%] px-1.5">
+                        <div class="bg-[#FFFFFF] rounded-lg mb-3">
+                            <button id="header-5" onclick="toggleAccordion(5)"
+                                class="w-full flex justify-between text-left items-center text-slate-100 transition-colors duration-300 bg-[#F5F5F5]">
+                                <span class="text-[15px] md:text-[18px] text-[#000] text-left px-3 leading-tight font-[400]">Q5. Does EMI remain the same or change in the future?</span>
+                                <span id="icon-5" class="text-slate-800 transition-transform duration-300 bg-[#20AA4A] py-6 px-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                                        class="w-4 h-4">
+                                        <path fill="white"
+                                            d="M8.75 3.75a.75.75 0 0 0-1.5 0v3.5h-3.5a.75.75 0 0 0 0 1.5h3.5v3.5a.75.75 0 0 0 1.5 0v-3.5h3.5a.75.75 0 0 0 0-1.5h-3.5v-3.5Z" />
+                                    </svg>
+                                </span>
+                            </button>
+                            <div id="content-5" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
+                                <div class="py-5">
+                                    <p>It depends on the type of loan. Fixed-rate loans will have the same EMI throughout their lifetime. However, floating-rate loans may have EMIs changing from time to time. It is based on market interest rates.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-[50%] px-1.5">
+                        <div class="bg-[#FFFFFF] rounded-lg mb-3">
+                            <button id="header-6" onclick="toggleAccordion(6)"
+                                class="w-full flex justify-between text-left items-center text-slate-100 transition-colors duration-300 bg-[#F5F5F5]">
+                                <span class="text-[15px] md:text-[18px] text-[#000] text-left px-3 leading-tight font-[400]">Q6. What information do I need to use the calculator?</span>
+                                <span id="icon-6" class="text-slate-800 transition-transform duration-300 bg-[#20AA4A] py-6 px-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                                        class="w-4 h-4">
+                                        <path fill="white"
+                                            d="M8.75 3.75a.75.75 0 0 0-1.5 0v3.5h-3.5a.75.75 0 0 0 0 1.5h3.5v3.5a.75.75 0 0 0 1.5 0v-3.5h3.5a.75.75 0 0 0 0-1.5h-3.5v-3.5Z" />
+                                    </svg>
+                                </span>
+                            </button>
+                            <div id="content-6" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
+                                <div class="py-5">
+                                    <p>To obtain the EMI on a loan, the following inputs need to be given:</p>
+                                    <ul>
+                                        <li>✔ Principal Amount of the loan</li>
+                                        <li>✔ Interest Rate</li>
+                                        <li>✔ Term of the loan</li>
+                                    </ul>
+                                    <p>The calculator will provide the EMI and also the total interest and total repayment amount in a fraction of a second. </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-[50%] px-1.5">
+                        <div class="bg-[#FFFFFF] rounded-lg mb-3">
+                            <button id="header-7" onclick="toggleAccordion(7)"
+                                class="w-full flex justify-between text-left items-center text-slate-100 transition-colors duration-300 bg-[#F5F5F5]">
+                                <span class="text-[15px] md:text-[18px] text-[#000] text-left px-3 leading-tight font-[400]">Q7. Can I change my loan tenure to make my EMI lower?</span>
+                                <span id="icon-7" class="text-slate-800 transition-transform duration-300 bg-[#20AA4A] py-6 px-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                                        class="w-4 h-4">
+                                        <path fill="white"
+                                            d="M8.75 3.75a.75.75 0 0 0-1.5 0v3.5h-3.5a.75.75 0 0 0 0 1.5h3.5v3.5a.75.75 0 0 0 1.5 0v-3.5h3.5a.75.75 0 0 0 0-1.5h-3.5v-3.5Z" />
+                                    </svg>
+                                </span>
+                            </button>
+                            <div id="content-7" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
+                                <div class="py-5">
+                                    <p>It is possible to change the loan tenure on account of a lower EMI. A longer tenure will lower an EMI but will increase the total interest cost paid. A shorter tenure raises the EMI while lowering the total interest cost. Use the business loan EMI calculator to find out what is a good compromise between affordability and repayment efficiency.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-[50%] px-1.5">
+                        <div class="bg-[#FFFFFF] rounded-lg mb-3">
+                            <button id="header-8" onclick="toggleAccordion(8)"
+                                class="w-full flex justify-between text-left items-center text-slate-100 transition-colors duration-300 bg-[#F5F5F5]">
+                                <span class="text-[15px] md:text-[18px] text-[#000] text-left px-3 leading-tight font-[400]">Q8. Will my EMI change if I make some prepayments?</span>
+                                <span id="icon-8" class="text-slate-800 transition-transform duration-300 bg-[#20AA4A] py-6 px-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                                        class="w-4 h-4">
+                                        <path fill="white"
+                                            d="M8.75 3.75a.75.75 0 0 0-1.5 0v3.5h-3.5a.75.75 0 0 0 0 1.5h3.5v3.5a.75.75 0 0 0 1.5 0v-3.5h3.5a.75.75 0 0 0 0-1.5h-3.5v-3.5Z" />
+                                    </svg>
+                                </span>
+                            </button>
+                            <div id="content-8" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
+                                <div class="py-5">
+                                    <p>Yes, whatever prepayment you make or even a part-prepayment will reduce the outstanding amount of your loan's principal. This might adjust either your future EMIs downwards or choose to reduce the repayment period. Some lenders may charge a nominal prepayment fee, so check the clauses that apply before you make early payments. Our small business loan calculator demonstrates how prepayments can affect your EMI.</p>
                                 </div>
                             </div>
                         </div>

@@ -62,7 +62,7 @@
                 <h3 class="text-[18px] lg:text-[20px] font-semibold">Interest Rates and Charges</h3>
                 <ul class="list-[circle] pl-6">
                     <li>
-                        The interest rate on your business loan will be communicated at the time of approval and will depend on market conditions, credit profile, and loan tenure.
+                        The interest rate on your <a href="./business-loan" class="text-[#20AA4A]">business loan</a> will be communicated at the time of approval and will depend on market conditions, credit profile, and loan tenure.
                     </li>
                     <li>
                         Additional charges are:

@@ -143,7 +143,7 @@
                                         <div class="flex items-start gap-x-1 mb-3">
                                             <img src="assets/icons/tick-circle.png" alt="" width="20" height="20">
                                             <p class="text-white text-[15px]">
-                                                Tailored Loan Solutions
+                                                Tailored <a href="./business-loan" class="text-[#20AA4A]">Business Loan</a> Solutions
                                             </p>
                                         </div>
                                     </div>

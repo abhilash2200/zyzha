@@ -6,9 +6,9 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        $meta_title = 'Fast & Reliable Business Loans | Zyzha ';
+        $meta_title = 'Fast & Reliable Loans | Zyzha ';
         $meta_keyword = '';
-        $meta_description = 'You can get business loans with quick approvals, minimal documentation, and multiple funding options. Secure the future of your business with Zyzha today!';
+        $meta_description = 'As a leading loan aggregator, we offer quick approvals, minimal documentation, and multiple funding options. A trusted loan provider like Zyzha is ready to help—apply today!';
   
 
         $data['meta_title'] = $meta_title;

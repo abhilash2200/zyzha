@@ -5,7 +5,7 @@
         <div class="container mx-auto px-4">
             <div class="flex flex-wrap">
                 <div class="w-full md:w-[50%]">
-                    <h2 class="text-[#000] font-bold text-[25px] lg:text-[35px] pt-10 leading-tight">Believing, banking and <br class="hidden lg:block"/> achieving different</h2>
+                    <h1 class="text-[#000] font-bold text-[25px] lg:text-[35px] pt-10 leading-tight">Fast & Easy Business <br class="hidden lg:block"/> Loans – Apply in Minutes!</h1>
                     <p class="text-[#000] text-[17px] pt-5">
                         You apply for a business loan, and we will do the rest.
                     </p>
@@ -16,7 +16,7 @@
     <section class="py-6 lg:py-8">
         <div class="container mx-auto px-4">
             <div class="w-full md:w-[100%]">
-                <h1 class="text-[#00000] font-bold text-[25px] lg:text-[35px] text-center pb-1">What is a Business Loan? </h1>
+                <h2 class="text-[#00000] font-bold text-[25px] lg:text-[35px] text-center pb-1">What is a Business Loan? </h2>
                 <p class="text-[#313030] text-center pb-5 w-full mx-auto">
                 A business loan is an economic solution to business needs, regardless of the size of your organisation. A business loan can be utilised for working capital, equipment purchase, business growth, or operational expenses.
                 </p>
@@ -124,7 +124,7 @@
         </div>
 
         <p class="text-[#313030] text-center w-full mx-auto pt-8">
-        Want a loan provider near you? Get in touch with us, as we are a top business loan aggregator. Apply online for your business loan through Zyzha's easy application procedure from anywhere.
+        Want a loan provider near you? <a href="./contact-us" class="text-[#20AA4A]">Get in touch with us</a>, as we are a top business loan aggregator. Apply online for your business loan through Zyzha's easy application procedure from anywhere.
         </p>
     </div>
 </section>
@@ -398,7 +398,7 @@
                         </div>
                         <div>
                             <h2 class="block font-bold text-white text-[15px] lg:text-[20px]">Business Loan EMI Calculator</h2>
-                            <span class="text-[#A8A4A4] text-[12px] lg:text-[15px]">Plan your loan repayment wisely with our<br class="hidden md:hidden lg:block"> <a href="">EMI calculator.</a></span> 
+                            <span class="text-[#A8A4A4] text-[12px] lg:text-[15px]">Plan your loan repayment wisely with our<br class="hidden md:hidden lg:block"> <a href="/emi-calculator"class="text-[#20AA4A]">EMI calculator.</a></span> 
                         </div>
                     </div>
                 </div>
@@ -536,6 +536,126 @@
                             <div id="content-4" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
                                 <div class="py-5">
                                     <p>Zyzha offers flexible repayment options, competitive interest rates, multiple funding and personalised loan solutions. That makes our MSME business loans the ideal choice for business owners looking to expand or manage their operations.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-[50%] px-1.5">
+                        <div class="bg-[#FFFFFF] rounded-lg mb-3">
+                            <button id="header-5" onclick="toggleAccordion(5)"
+                                class="w-full flex justify-between text-left items-center text-slate-100 transition-colors duration-300 bg-[#F5F5F5]">
+                                <span class="text-[15px] md:text-[18px] text-[#000] text-left px-3 leading-tight font-[400]">Q5. Who is eligible for a business loan?</span>
+                                <span id="icon-5" class="text-slate-800 transition-transform duration-300 bg-[#20AA4A] py-6 px-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                                        class="w-4 h-4">
+                                        <path fill="white"
+                                            d="M8.75 3.75a.75.75 0 0 0-1.5 0v3.5h-3.5a.75.75 0 0 0 0 1.5h3.5v3.5a.75.75 0 0 0 1.5 0v-3.5h3.5a.75.75 0 0 0 0-1.5h-3.5v-3.5Z" />
+                                    </svg>
+                                </span>
+                            </button>
+                            <div id="content-5" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
+                                <div class="py-5">
+                                    <p>Businessmen, sole proprietors, partnerships, and companies that have a stable income with a decent business history can apply for a business loan. Later will come the determining factor of eligibility of a business based on the turnover of a business account and a credit score.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-[50%] px-1.5">
+                        <div class="bg-[#FFFFFF] rounded-lg mb-3">
+                            <button id="header-6" onclick="toggleAccordion(6)"
+                                class="w-full flex justify-between text-left items-center text-slate-100 transition-colors duration-300 bg-[#F5F5F5]">
+                                <span class="text-[15px] md:text-[18px] text-[#000] text-left px-3 leading-tight font-[400]">Q6. Which loan is best for business?</span>
+                                <span id="icon-6" class="text-slate-800 transition-transform duration-300 bg-[#20AA4A] py-6 px-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                                        class="w-4 h-4">
+                                        <path fill="white"
+                                            d="M8.75 3.75a.75.75 0 0 0-1.5 0v3.5h-3.5a.75.75 0 0 0 0 1.5h3.5v3.5a.75.75 0 0 0 1.5 0v-3.5h3.5a.75.75 0 0 0 0-1.5h-3.5v-3.5Z" />
+                                    </svg>
+                                </span>
+                            </button>
+                            <div id="content-6" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
+                                <div class="py-5">
+                                    <p>The best loan is determined according to your needs. If you need funds for day-to-day expenses, take a working capital loan. If you are growing, take an expansion loan. For urgent needs, take an unsecured business loan.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-[50%] px-1.5">
+                        <div class="bg-[#FFFFFF] rounded-lg mb-3">
+                            <button id="header-7" onclick="toggleAccordion(7)"
+                                class="w-full flex justify-between text-left items-center text-slate-100 transition-colors duration-300 bg-[#F5F5F5]">
+                                <span class="text-[15px] md:text-[18px] text-[#000] text-left px-3 leading-tight font-[400]">Q7. How is business loan interest calculated?</span>
+                                <span id="icon-7" class="text-slate-800 transition-transform duration-300 bg-[#20AA4A] py-6 px-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                                        class="w-4 h-4">
+                                        <path fill="white"
+                                            d="M8.75 3.75a.75.75 0 0 0-1.5 0v3.5h-3.5a.75.75 0 0 0 0 1.5h3.5v3.5a.75.75 0 0 0 1.5 0v-3.5h3.5a.75.75 0 0 0 0-1.5h-3.5v-3.5Z" />
+                                    </svg>
+                                </span>
+                            </button>
+                            <div id="content-7" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
+                                <div class="py-5">
+                                    <p>Interest is computed on the amount of the loan, the period, and the rate of interest. Compute your EMI and the cost of the loan by using our EMI calculator.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-[50%] px-1.5">
+                        <div class="bg-[#FFFFFF] rounded-lg mb-3">
+                            <button id="header-8" onclick="toggleAccordion(8)"
+                                class="w-full flex justify-between text-left items-center text-slate-100 transition-colors duration-300 bg-[#F5F5F5]">
+                                <span class="text-[15px] md:text-[18px] text-[#000] text-left px-3 leading-tight font-[400]">Q8. Is it possible to get a business loan without collateral? </span>
+                                <span id="icon-8" class="text-slate-800 transition-transform duration-300 bg-[#20AA4A] py-6 px-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                                        class="w-4 h-4">
+                                        <path fill="white"
+                                            d="M8.75 3.75a.75.75 0 0 0-1.5 0v3.5h-3.5a.75.75 0 0 0 0 1.5h3.5v3.5a.75.75 0 0 0 1.5 0v-3.5h3.5a.75.75 0 0 0 0-1.5h-3.5v-3.5Z" />
+                                    </svg>
+                                </span>
+                            </button>
+                            <div id="content-8" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
+                                <div class="py-5">
+                                    <p>Yes, Zyzha offers unsecured business loans with no collateral. Such loans are perfect for businesses that need immediate funding without compromising assets. We determine your creditworthiness, business stability, and cash flow to approve the loan.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-[50%] px-1.5">
+                        <div class="bg-[#FFFFFF] rounded-lg mb-3">
+                            <button id="header-9" onclick="toggleAccordion(9)"
+                                class="w-full flex justify-between text-left items-center text-slate-100 transition-colors duration-300 bg-[#F5F5F5]">
+                                <span class="text-[15px] md:text-[18px] text-[#000] text-left px-3 leading-tight font-[400]">Q9. How long does it take to get a business loan approved?</span>
+                                <span id="icon-9" class="text-slate-800 transition-transform duration-300 bg-[#20AA4A] py-6 px-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                                        class="w-4 h-4">
+                                        <path fill="white"
+                                            d="M8.75 3.75a.75.75 0 0 0-1.5 0v3.5h-3.5a.75.75 0 0 0 0 1.5h3.5v3.5a.75.75 0 0 0 1.5 0v-3.5h3.5a.75.75 0 0 0 0-1.5h-3.5v-3.5Z" />
+                                    </svg>
+                                </span>
+                            </button>
+                            <div id="content-9" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
+                                <div class="py-5">
+                                    <p>We at Zyzha believe in the mantra time is money. Our method is fast and hassle-free. We help you clear the approvals within 72 hours of submitting your application with the necessary papers. Less paperwork and hassle-free online methods make getting a business loan as easy as learning ABC.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full lg:w-[50%] px-1.5">
+                        <div class="bg-[#FFFFFF] rounded-lg mb-3">
+                            <button id="header-10" onclick="toggleAccordion(10)"
+                                class="w-full flex justify-between text-left items-center text-slate-100 transition-colors duration-300 bg-[#F5F5F5]">
+                                <span class="text-[15px] md:text-[18px] text-[#000] text-left px-3 leading-tight font-[400]">Q10. Is there an option for prepayment of my business loan before the term?</span>
+                                <span id="icon-10" class="text-slate-800 transition-transform duration-300 bg-[#20AA4A] py-6 px-6">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor"
+                                        class="w-4 h-4">
+                                        <path fill="white"
+                                            d="M8.75 3.75a.75.75 0 0 0-1.5 0v3.5h-3.5a.75.75 0 0 0 0 1.5h3.5v3.5a.75.75 0 0 0 1.5 0v-3.5h3.5a.75.75 0 0 0 0-1.5h-3.5v-3.5Z" />
+                                    </svg>
+                                </span>
+                            </button>
+                            <div id="content-10" class="max-h-0 overflow-hidden transition-all duration-300 ease-in-out px-5 border-b border-slate-300">
+                                <div class="py-5">
+                                    <p>Yes, prepayment of business loans is permitted so that you can avoid paying interest and settle your debt in advance. Prepayment fees may be insignificant on certain loans. Read the terms of the loan provider or contact us for more information.</p>
                                 </div>
                             </div>
                         </div>
